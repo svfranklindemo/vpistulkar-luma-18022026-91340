@@ -1,0 +1,20 @@
+{
+  "mappings": [
+    "/content/luma3/language-masters/en:/",
+    "/content/luma3/language-masters/en/:/en/",
+    "/content/luma3/language-masters/fr/:/fr/",
+    "/content/luma3/language-masters/fr:/fr",
+    "/content/luma3/language-masters/es/:/es/",
+    "/content/luma3/language-masters/es:/es",
+    "/content/luma3/language-masters/ja/:/ja/",
+    "/content/luma3/language-masters/ja:/ja",
+    "/content/luma3/language-masters/de/:/de/",
+    "/content/luma3/language-masters/de:/de",
+    "/content/luma3/configuration:/.helix/config.json",
+    "/content/luma3/metadata:/metadata.json",
+    "/content/luma3/redirects:/redirects.json",
+    "/content/luma3/placeholders:/placeholders.json",
+    "/content/luma3/custom-events:/custom-events.json"
+  ],
+  "includes": ["/content/luma3/", "/content/dam/luma3/"]
+}

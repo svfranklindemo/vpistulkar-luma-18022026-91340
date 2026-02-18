@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p168578-e1802821.adobeaemcloud.com/bin/franklin.delivery/saharan1708/lumacwlpb/main"
+    type: "markup"
+    suffix: ".html"
